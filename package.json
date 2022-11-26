@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlammerNet/hugunnin-backend.git"
+  },
+  "keywords": [
+    "hugunnin"
+  ],
+  "author": "Jonathan Duclos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlammerNet/hugunnin-backend/issues"
+  },
+  "homepage": "https://github.com/SlammerNet/hugunnin-backend#readme"
+}
